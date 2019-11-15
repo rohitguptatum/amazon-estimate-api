@@ -1,0 +1,4 @@
+com.sellics.amazon.estimate
+com.sellics.amazon.estimate.controller
+com.sellics.amazon.estimate.model
+com.sellics.amazon.estimate.service
